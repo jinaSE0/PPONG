@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/seb42_main_026/static/js/main.ceb2f688.js",
+    "main.js": "/seb42_main_026/static/js/main.4cf3e6cc.js",
     "static/media/ic_tier_ppong.svg": "/seb42_main_026/static/media/ic_tier_ppong.4b18960dc7e10a31418426df17a8f1f0.svg",
     "static/media/ic_tier_gold.svg": "/seb42_main_026/static/media/ic_tier_gold.8d1b62f522892a63404c721cef56247a.svg",
     "static/media/ic_tier_silver.svg": "/seb42_main_026/static/media/ic_tier_silver.b2407bb37a6294343e1125db99ef93c6.svg",
@@ -32,9 +32,9 @@
     "static/media/ic_answer_menubutton.svg": "/seb42_main_026/static/media/ic_answer_menubutton.6c264eb26e888ec52c7b78e43b5e1e69.svg",
     "static/media/ic_topnav_alarm_badge.svg": "/seb42_main_026/static/media/ic_topnav_alarm_badge.aec99dc2c29b014264d6b5b4bd8639a3.svg",
     "static/media/ic_topnav_back_button.svg": "/seb42_main_026/static/media/ic_topnav_back_button.54398a7525cfc7ccbe00ff8d8900859c.svg",
-    "main.ceb2f688.js.map": "/seb42_main_026/static/js/main.ceb2f688.js.map"
+    "main.4cf3e6cc.js.map": "/seb42_main_026/static/js/main.4cf3e6cc.js.map"
   },
   "entrypoints": [
-    "static/js/main.ceb2f688.js"
+    "static/js/main.4cf3e6cc.js"
   ]
 }
